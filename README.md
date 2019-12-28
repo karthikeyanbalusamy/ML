@@ -8,9 +8,9 @@ Machine learning is an application of artificial intelligence (AI) that provides
 # Repository Overview
 This repository is about different Machine Learning algorithm approaches as per the industry practices.
 
-#Table of Contents
+# Table of Contents
 - [EDA Project](https://github.com/karthikeyanbalusamy/EDA-Project)
-- [OilPrice Pridiction using Linear Algorithm] (https://github.com/karthikeyanbalusamy/OilPrice_Prediction)
+- [OilPrice Pridiction using Linear Algorithm](https://github.com/karthikeyanbalusamy/OilPrice_Prediction)
 
 
 [Links with title](http://localhost/ "link title")
